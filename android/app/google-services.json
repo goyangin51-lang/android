@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144543097486",
+    "project_id": "mbti-test-flutter",
+    "storage_bucket": "mbti-test-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144543097486:android:ada36e96ca83838d971fdf",
+        "android_client_info": {
+          "package_name": "com.example.mbti_test_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4TN3L1YX0ZTWzVvWFeNUwqPsEZkRiS7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

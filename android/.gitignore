@@ -1,0 +1,25 @@
+# Flutter and Dart specific files
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.gradle
+.idea/
+.vscode/
+
+# Build and Output Folders (가장 중요: 이들이 용량을 차지합니다!)
+/build
+/host
+/windows/flutter/ephemeral
+/macos/Flutter/ephemeral
+/linux/flutter/ephemeral
+/web/install_web.sh
+/web/flutter_bootstrap.js
+/ios/.symlinks/
+/ios/Flutter/.last_build_id
+/android/.gradle
+/android/local.properties
+
+# Operating System specific files
+.DS_Store
+Thumbs.db

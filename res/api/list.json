@@ -1,0 +1,12 @@
+{
+  "questions": [
+    {
+      "title": "MBTI 성격 테스트",
+      "filename": "mbti.json"
+    },
+    {
+      "title": "나만의 취향 테스트",
+      "filename": "test1.json"
+    }
+  ]
+}
